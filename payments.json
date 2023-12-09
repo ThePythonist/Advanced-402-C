@@ -1,0 +1,61 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "monthly_payment": {
+        "January": 5500,
+        "February": 6000,
+        "March": 5000,
+        "April": 5000,
+        "May": 5000,
+        "June": 5000,
+        "July": 5000,
+        "August": 5000,
+        "September": 5000,
+        "October": 5000,
+        "November": 7000,
+        "December": 7500
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Sales Manager",
+      "monthly_payment": {
+        "January": 6000,
+        "February": 6000,
+        "March": 6000,
+        "April": 6000,
+        "May": 6000,
+        "June": 6000,
+        "July": 6000,
+        "August": 6000,
+        "September": 6000,
+        "October": 6000,
+        "November": 6000,
+        "December": 6000
+      }
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "position": "Marketing Specialist",
+      "monthly_payment": {
+        "January": 6000,
+        "February": 6200,
+        "March": 4500,
+        "April": 4500,
+        "May": 4500,
+        "June": 5500,
+        "July": 4500,
+        "August": 4500,
+        "September": 4500,
+        "October": 4500,
+        "November": 4500,
+        "December": 5000
+      }
+    }
+  ]
+}
