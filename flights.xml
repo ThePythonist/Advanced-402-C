@@ -1,0 +1,93 @@
+<flights>
+  <flight>
+    <flight_number>AB123</flight_number>
+    <origin>New York</origin>
+    <destination>Los Angeles</destination>
+    <departure_time>2023-12-16 08:00:00</departure_time>
+    <arrival_time>2023-12-16 11:30:00</arrival_time>
+    <passengers>
+      <passenger>
+        <name>John Doe</name>
+        <seat_number>A12</seat_number>
+        <ticket_number>T123</ticket_number>
+      </passenger>
+      <passenger>
+        <name>Jane Smith</name>
+        <seat_number>B7</seat_number>
+        <ticket_number>T124</ticket_number>
+      </passenger>
+    </passengers>
+  </flight>
+  <flight>
+    <flight_number>CD456</flight_number>
+    <origin>London</origin>
+    <destination>Paris</destination>
+    <departure_time>2023-12-16 15:45:00</departure_time>
+    <arrival_time>2023-12-16 17:30:00</arrival_time>
+    <passengers>
+      <passenger>
+        <name>Michael Johnson</name>
+        <seat_number>C21</seat_number>
+        <ticket_number>T125</ticket_number>
+      </passenger>
+      <passenger>
+        <name>Emily Brown</name>
+        <seat_number>D15</seat_number>
+        <ticket_number>T126</ticket_number>
+      </passenger>
+    </passengers>
+  </flight>
+  <flight>
+    <flight_number>EF789</flight_number>
+    <origin>Tokyo</origin>
+    <destination>Sydney</destination>
+    <departure_time>2023-12-17 09:30:00</departure_time>
+    <arrival_time>2023-12-17 21:00:00</arrival_time>
+    <passengers>
+      <passenger>
+        <name>David Lee</name>
+        <seat_number>F4</seat_number>
+        <ticket_number>T127</ticket_number>
+      </passenger>
+      <passenger>
+        <name>Sophia Wilson</name>
+        <seat_number>G9</seat_number>
+        <ticket_number>T128</ticket_number>
+      </passenger>
+      <passenger>
+        <name>Oliver Davis</name>
+        <seat_number>H12</seat_number>
+        <ticket_number>T129</ticket_number>
+      </passenger>
+    </passengers>
+  </flight>
+  <flight>
+    <flight_number>GH234</flight_number>
+    <origin>Sydney</origin>
+    <destination>Melbourne</destination>
+    <departure_time>2023-12-18 14:00:00</departure_time>
+    <arrival_time>2023-12-18 15:30:00</arrival_time>
+    <passengers>
+      <passenger>
+        <name>Emma Anderson</name>
+        <seat_number>I5</seat_number>
+        <ticket_number>T130</ticket_number>
+      </passenger>
+      <passenger>
+        <name>William Thompson</name>
+        <seat_number>J8</seat_number>
+        <ticket_number>T131</ticket_number>
+      </passenger>
+      <passenger>
+        <name>Ava Martinez</name>
+        <seat_number>K20</seat_number>
+        <ticket_number>T132</ticket_number>
+      </passenger>
+      <passenger>
+        <name>Noah Harris</name>
+        <seat_number>L16</seat_number>
+        <ticket_number>T133</ticket_number>
+      </passenger>
+    </passengers>
+  </flight>
+</flights>

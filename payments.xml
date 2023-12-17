@@ -1,0 +1,135 @@
+<employees>
+  <employee>
+    <name>John Doe</name>
+    <job_title>Python Developer</job_title>
+    <age>31</age>
+    <monthly_payment>
+      <January>5000</January>
+      <February>5000</February>
+      <March>5000</March>
+      <April>5000</April>
+      <May>5000</May>
+      <June>5000</June>
+      <July>5000</July>
+      <August>5000</August>
+      <September>5000</September>
+      <October>5000</October>
+      <November>5000</November>
+      <December>5000</December>
+    </monthly_payment>
+  </employee>
+  <employee>
+    <name>Jane Smith</name>
+    <job_title>Data Scientist</job_title>
+    <age>29</age>
+    <monthly_payment>
+      <January>6000</January>
+      <February>6000</February>
+      <March>6000</March>
+      <April>6000</April>
+      <May>6000</May>
+      <June>6000</June>
+      <July>6000</July>
+      <August>6000</August>
+      <September>6000</September>
+      <October>6000</October>
+      <November>6000</November>
+      <December>6000</December>
+    </monthly_payment>
+  </employee>
+  <employee>
+    <name>David Johnson</name>
+    <job_title>UI/UX Designer</job_title>
+    <age>20</age>
+    <monthly_payment>
+      <January>4500</January>
+      <February>4500</February>
+      <March>4500</March>
+      <April>4500</April>
+      <May>4500</May>
+      <June>4500</June>
+      <July>4500</July>
+      <August>4500</August>
+      <September>4500</September>
+      <October>4500</October>
+      <November>4500</November>
+      <December>4500</December>
+    </monthly_payment>
+  </employee>
+  <employee>
+    <name>Michael Brown</name>
+    <job_title>Software Engineer</job_title>
+    <age>24</age>
+    <monthly_payment>
+      <January>5500</January>
+      <February>5500</February>
+      <March>5500</March>
+      <April>5500</April>
+      <May>5500</May>
+      <June>5500</June>
+      <July>5500</July>
+      <August>5500</August>
+      <September>5500</September>
+      <October>5500</October>
+      <November>5500</November>
+      <December>5500</December>
+    </monthly_payment>
+  </employee>
+  <employee>
+    <name>Emily Davis</name>
+    <job_title>Graphic Designer</job_title>
+    <age>33</age>
+    <monthly_payment>
+      <January>4000</January>
+      <February>4000</February>
+      <March>4000</March>
+      <April>4000</April>
+      <May>4000</May>
+      <June>4000</June>
+      <July>4000</July>
+      <August>4000</August>
+      <September>4000</September>
+      <October>4000</October>
+      <November>4000</November>
+      <December>4000</December>
+    </monthly_payment>
+  </employee>
+  <employee>
+    <name>Daniel Wilson</name>
+    <job_title>Full Stack Developer</job_title>
+    <age>39</age>
+    <monthly_payment>
+      <January>6000</January>
+      <February>6000</February>
+      <March>6000</March>
+      <April>6000</April>
+      <May>6000</May>
+      <June>6000</June>
+      <July>6000</July>
+      <August>6000</August>
+      <September>6000</September>
+      <October>6000</October>
+      <November>6000</November>
+      <December>6000</December>
+    </monthly_payment>
+  </employee>
+  <employee>
+    <name>Sophia Johnson</name>
+    <job_title>Product Manager</job_title>
+    <age>23</age>
+    <monthly_payment>
+      <January>7000</January>
+      <February>7000</February>
+      <March>7000</March>
+      <April>7000</April>
+      <May>7000</May>
+      <June>7000</June>
+      <July>7000</July>
+      <August>7000</August>
+      <September>7000</September>
+      <October>7000</October>
+      <November>7000</November>
+      <December>7000</December>
+    </monthly_payment>
+  </employee>
+</employees>
